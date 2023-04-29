@@ -197,13 +197,31 @@ html {
     border-radius: 8px;
 }
 
+.projects-list-2 > h3{
+    margin: 32px 32px 0px 32px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #DFFFDF;
+}
+
+.projects-list-2 > p{
+    position: absolute;
+    margin:16px 32px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #CCCCCC;
+}
+
 .projects-list-3{
     background: linear-gradient(159.35deg, rgba(41, 46, 65, 0.81) 13.69%, rgba(49, 58, 86, 0.81) 78.41%);
     box-shadow: 0px 10px 30px rgba(42, 28, 80, 0.25);
     border-radius: 8px;
 }
 
-.projects-list-2 > h3, .projects-list-3 > h3{
+.projects-list-3 > h3{
     position: absolute;
     top:50%;
     left:50%;
@@ -214,7 +232,7 @@ html {
     margin: 0px;
 }
 
-.projects-list-2 > h4, .projects-list-3 > h4{
+.projects-list-3 > h4{
     position: absolute;
     margin: 0px;
 }
